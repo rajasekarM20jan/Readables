@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Rajasekar",
+    "dateOfBirth": "20-Jan-1998",
+    "typeOfAccount": "SavingsAccount",
+    "pin": "3245",
+    "balance": "19000"
+  },
+  {
+    "name": "JeevaPrakash",
+    "dateOfBirth": "10-Mar-2002",
+    "typeOfAccount": "SavingsAccount",
+    "pin": "1235",
+    "balance": "21000"
+  },
+  {
+    "name": "Sethu",
+    "dateOfBirth": "20-Jul-1999",
+    "typeOfAccount": "CurrentAccount",
+    "pin": "1945",
+    "balance": "29000"
+  }
+]
